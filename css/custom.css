@@ -1,0 +1,41 @@
+/* CSS custom style sheet */
+
+html {background-color: #F5FFFA;
+	font-size: 16px;}
+
+h1 {color: #778899;
+	font-family: cursive;
+	border-bottom: 2px solid;
+	/*text-align: center;*/}
+.title{text-align: center;
+		font-size: 36px;
+		font-family: Fantasy;
+		font-weight: bold;
+		border-bottom: 0px;}
+h2 {font-size: 16px;
+	line-height: 80%;
+	}
+.name{font-size: 20px;
+		font-style: italic;}
+
+.person {color:#696969;
+		text-align: center;}
+
+body {
+	margin:5%;
+	color: #696969;
+	}
+.general{
+	display: block;
+}
+
+
+.info{
+	float:left;
+	width: 30%;
+}
+.detail{
+	float:left;
+	width:70%;
+
+}
